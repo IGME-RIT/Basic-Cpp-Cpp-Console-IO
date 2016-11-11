@@ -1,0 +1,15 @@
+series: Basic C++
+title: C++ Console IO
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Basic usage of cin and cout to input and output data with the console window.
+language: C++
+tags:
+  - Core
+  - Input
+extra_resources:
+connections:
+  - series: Basic C++
+    title: C++ Strings
